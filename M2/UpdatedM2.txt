@@ -1,1 +1,2 @@
 Updated M2 file
+Added new line
